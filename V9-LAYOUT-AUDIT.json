@@ -1,0 +1,395 @@
+[
+  {
+    "sw": 320,
+    "cw": 320,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "index.html",
+    "size": "320x667",
+    "errors": []
+  },
+  {
+    "sw": 375,
+    "cw": 375,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "index.html",
+    "size": "375x667",
+    "errors": []
+  },
+  {
+    "sw": 430,
+    "cw": 430,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "index.html",
+    "size": "430x932",
+    "errors": []
+  },
+  {
+    "sw": 768,
+    "cw": 768,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "index.html",
+    "size": "768x1024",
+    "errors": []
+  },
+  {
+    "sw": 667,
+    "cw": 667,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "index.html",
+    "size": "667x375",
+    "errors": []
+  },
+  {
+    "sw": 320,
+    "cw": 320,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "portfolio.html",
+    "size": "320x667",
+    "errors": []
+  },
+  {
+    "sw": 375,
+    "cw": 375,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "portfolio.html",
+    "size": "375x667",
+    "errors": []
+  },
+  {
+    "sw": 430,
+    "cw": 430,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "portfolio.html",
+    "size": "430x932",
+    "errors": []
+  },
+  {
+    "sw": 768,
+    "cw": 768,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "portfolio.html",
+    "size": "768x1024",
+    "errors": []
+  },
+  {
+    "sw": 667,
+    "cw": 667,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "portfolio.html",
+    "size": "667x375",
+    "errors": []
+  },
+  {
+    "sw": 320,
+    "cw": 320,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "about.html",
+    "size": "320x667",
+    "errors": []
+  },
+  {
+    "sw": 375,
+    "cw": 375,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "about.html",
+    "size": "375x667",
+    "errors": []
+  },
+  {
+    "sw": 430,
+    "cw": 430,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "about.html",
+    "size": "430x932",
+    "errors": []
+  },
+  {
+    "sw": 768,
+    "cw": 768,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "about.html",
+    "size": "768x1024",
+    "errors": []
+  },
+  {
+    "sw": 667,
+    "cw": 667,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "about.html",
+    "size": "667x375",
+    "errors": []
+  },
+  {
+    "sw": 320,
+    "cw": 320,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "services.html",
+    "size": "320x667",
+    "errors": []
+  },
+  {
+    "sw": 375,
+    "cw": 375,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "services.html",
+    "size": "375x667",
+    "errors": []
+  },
+  {
+    "sw": 430,
+    "cw": 430,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "services.html",
+    "size": "430x932",
+    "errors": []
+  },
+  {
+    "sw": 768,
+    "cw": 768,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "services.html",
+    "size": "768x1024",
+    "errors": []
+  },
+  {
+    "sw": 667,
+    "cw": 667,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "services.html",
+    "size": "667x375",
+    "errors": []
+  },
+  {
+    "sw": 320,
+    "cw": 320,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "INPUT",
+        "c": "",
+        "h": 22,
+        "w": 22
+      }
+    ],
+    "minFunctional": 10,
+    "page": "contact.html",
+    "size": "320x667",
+    "errors": []
+  },
+  {
+    "sw": 375,
+    "cw": 375,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "INPUT",
+        "c": "",
+        "h": 22,
+        "w": 22
+      }
+    ],
+    "minFunctional": 10,
+    "page": "contact.html",
+    "size": "375x667",
+    "errors": []
+  },
+  {
+    "sw": 430,
+    "cw": 430,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "INPUT",
+        "c": "",
+        "h": 22,
+        "w": 22
+      }
+    ],
+    "minFunctional": 10,
+    "page": "contact.html",
+    "size": "430x932",
+    "errors": []
+  },
+  {
+    "sw": 768,
+    "cw": 768,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "INPUT",
+        "c": "",
+        "h": 22,
+        "w": 22
+      }
+    ],
+    "minFunctional": 10,
+    "page": "contact.html",
+    "size": "768x1024",
+    "errors": []
+  },
+  {
+    "sw": 667,
+    "cw": 667,
+    "hidden": 0,
+    "tiny": [],
+    "minFunctional": 10,
+    "page": "contact.html",
+    "size": "667x375",
+    "errors": []
+  },
+  {
+    "sw": 320,
+    "cw": 320,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "A",
+        "c": "",
+        "h": 15,
+        "w": 101
+      },
+      {
+        "t": "A",
+        "c": "",
+        "h": 15,
+        "w": 146
+      }
+    ],
+    "minFunctional": 10,
+    "page": "location.html",
+    "size": "320x667",
+    "errors": []
+  },
+  {
+    "sw": 375,
+    "cw": 375,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "A",
+        "c": "",
+        "h": 15,
+        "w": 101
+      },
+      {
+        "t": "A",
+        "c": "",
+        "h": 15,
+        "w": 146
+      }
+    ],
+    "minFunctional": 10,
+    "page": "location.html",
+    "size": "375x667",
+    "errors": []
+  },
+  {
+    "sw": 430,
+    "cw": 430,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "A",
+        "c": "",
+        "h": 15,
+        "w": 101
+      },
+      {
+        "t": "A",
+        "c": "",
+        "h": 15,
+        "w": 146
+      }
+    ],
+    "minFunctional": 10,
+    "page": "location.html",
+    "size": "430x932",
+    "errors": []
+  },
+  {
+    "sw": 768,
+    "cw": 768,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "A",
+        "c": "",
+        "h": 13,
+        "w": 88
+      },
+      {
+        "t": "A",
+        "c": "",
+        "h": 13,
+        "w": 128
+      }
+    ],
+    "minFunctional": 10,
+    "page": "location.html",
+    "size": "768x1024",
+    "errors": []
+  },
+  {
+    "sw": 667,
+    "cw": 667,
+    "hidden": 0,
+    "tiny": [
+      {
+        "t": "A",
+        "c": "",
+        "h": 37,
+        "w": 68
+      },
+      {
+        "t": "A",
+        "c": "",
+        "h": 37,
+        "w": 88
+      }
+    ],
+    "minFunctional": 10,
+    "page": "location.html",
+    "size": "667x375",
+    "errors": []
+  }
+]

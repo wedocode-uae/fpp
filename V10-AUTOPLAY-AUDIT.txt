@@ -1,0 +1,37 @@
+FLOW FUSION MODERN WEBSITE V10 — AUTOPLAY AUDIT
+
+Core cadence
+- Shared autoplay interval: 3000 ms
+- Hero slide interval: 3000 ms
+- Home selected-project interval: 3000 ms
+- Portfolio featured-project interval: 3000 ms
+- Customer strategy interval: 3000 ms
+- Service image-gallery interval: 3000 ms
+- About story-image interval: 3000 ms
+- Home service rail: advances every 3000 ms
+- About capability rail: advances every 3000 ms
+- Location facility rail: advances every 3000 ms
+
+Automatic motion
+- Hero zoom/pan cycle: 3 seconds
+- General image zoom/pan cycle: 3 seconds
+- Service crossfade duration: 0.75 seconds with a 3-second hold/cycle
+- Technical flow-line cycles: approximately 3 seconds
+- Maintenance/civil reveal cycles: approximately 3 seconds
+- Water, electrical and HVAC decorative motion: approximately 3 seconds
+
+Interaction behavior
+- Autoplay no longer pauses merely because the desktop pointer is over a section.
+- Autoplay continues after manual previous/next selection.
+- Hero autoplay pauses only through the explicit pause control, reduced-motion preference, or when the hero is off-screen.
+- Rails pause only during an active drag/touch gesture and resume automatically.
+- Off-screen timers stop and resume when the relevant section returns to view.
+- Mobile rails use smooth native scrolling every 3 seconds.
+
+Cache control
+- Every page loads style.css?v=10 and app.js?v=10 so browsers do not reuse the older V9 timings.
+
+Validation
+- JavaScript syntax: passed with node --check.
+- Local CSS, JavaScript and image references: passed.
+- All six pages reference V10 CSS and JavaScript.

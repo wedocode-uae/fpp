@@ -1,0 +1,8 @@
+FLOW FUSION V10.1 — SELECTED WORK CAROUSEL PATCH
+
+- The Selected Work carousel now opens with project 2 centered.
+- Project 1 is visible on the left and project 3 is visible on the right.
+- Seamless first/last clones prevent an empty edge when autoplay loops.
+- The 3-second autoplay timing is unchanged.
+- Previous, next, dot navigation, touch swipe and resize centering remain active.
+- Carousel clones are inert and hidden from assistive technologies.

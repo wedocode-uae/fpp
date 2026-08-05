@@ -1,0 +1,37 @@
+FLOW FUSION V9 — MOBILE VALIDATION SUMMARY
+
+Automated layout checks were run on all six pages at:
+- 320 x 667
+- 375 x 667
+- 430 x 932
+- 768 x 1024
+- 667 x 375 short landscape
+
+Pages checked:
+- Home
+- Portfolio
+- About Us
+- Services
+- Contact Us
+- Our Location
+
+Validated results:
+- No document-level horizontal overflow at tested widths
+- No reveal elements left invisible
+- No JavaScript page errors in the layout audit
+- Functional metadata and labels remain at 10px or larger
+- Mobile body text remains compact and normally weighted
+- Main controls and footer links use practical touch areas
+- Images have responsive source variants and visual backplates
+- Mobile location uses a local map fallback when the external iframe is unavailable
+- Services remain fully visible while secondary detail collapses on compact screens
+- Short-landscape rules keep the Home hero and header within the viewport
+- Reduced-motion support remains enabled
+
+Visual full-page checks were completed at 375px for all six pages.
+
+Items still requiring verified business information before publication:
+- Exact office address and Google Maps pin
+- Confirmed business hours
+- Production form-processing backend
+- Verified project descriptions and genuine project photographs
